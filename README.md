@@ -13,6 +13,7 @@ IHorizon have a large variety of features, including moderation, invite manageme
 * Japanese
 * Spanish
 * Russian
+* Ukraine
 * And soon more !
 
 ## Contributor's Wall
