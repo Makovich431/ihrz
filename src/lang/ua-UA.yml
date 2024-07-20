@@ -1,7 +1,7 @@
-# Основной языковой файл для бота Discord iHorizon
-# ru-RU: Русский
+# Язиковий файл для боту iHorizon
+# ua_uk : Українська
 
-# Команды для тикетов
+# Команди для тикетов
 # /add, /close, /delete, /sethereticket, /open, /remove, /transript, /disableticket
 
 # /add
